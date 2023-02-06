@@ -1,0 +1,1 @@
+print('ALLAH hu ALLAH')
